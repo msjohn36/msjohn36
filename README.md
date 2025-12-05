@@ -22,13 +22,14 @@ I love building web experiences that follow semantic HTML, WCAG accessibility, a
 - Variable fonts • CSS grid / flexbox
 - SEO meta tags • Open Graph • Lighthouse testing
 
-## 🌲 Top Languages in the Cat Forest
+## 🏆 Norwegian Forest Cat Trophies
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&title_color=8DAA9D&text_color=DDE3D8&bg_color=1B2A23&hide_border=true&border_radius=12" 
-       alt="Top languages cat style" />
+       src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=10&title=C8D0C9&border_color=1B2A23&bg_color=1B2A23" 
+       alt="Nordhaven Cat Trophies" />
 </p>
+
 
 
 ## 🐾 About Me
