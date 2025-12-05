@@ -22,14 +22,13 @@ I love building web experiences that follow semantic HTML, WCAG accessibility, a
 - Variable fonts • CSS grid / flexbox
 - SEO meta tags • Open Graph • Lighthouse testing
 
-## 🏆 Norwegian Forest Cat Trophies
+## 🌲🐾 Nordhaven Cat Stats
 
 <p align="center">
   <img 
-       src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=10&title=C8D0C9&border_color=1B2A23&bg_color=1B2A23" 
-       alt="Nordhaven Cat Trophies" />
+       src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&title_color=8DAA9D&icon_color=C8D0C9&text_color=DDE3D8&bg_color=1B2A23&hide_border=true&border_radius=12&custom_title=Nordhaven%20Cat%20Commits%20%F0%9F%90%B6" 
+       alt="Cat themed GitHub stats" />
 </p>
-
 
 
 ## 🐾 About Me
