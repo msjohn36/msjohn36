@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Mindy Johnston
 
 ## 🐾 Meet Monkey
-<img src="./monkey.png" alt="Monkey the cat" width="350">
+<img src="./monkey2.jpg" alt="Monkey the cat" width="350">
 
 ### 🖥️ Graphic Information Technology • Arizona State University  
 Veterinary Technician at Banfield Pet Hospital | Front-end designer 
