@@ -10,7 +10,9 @@ Veterinary Technician at Banfield Pet Hospital | Front-end designer
 I’m studying **GIT with a focus on front-end development, UI/UX accessibility, and responsive design**.  
 I love building web experiences that follow semantic HTML, WCAG accessibility, and clean CSS architecture.
 
----
+## 🌐 Connect With Me
+| Platform | Link |
+| CodePen | [https://codepen.io/YOURNAME](https://codepen.io/Mindy-Johnston) |
 
 ## 🔧 Technical Skills
 - **HTML5 / CSS3 / JavaScript**
