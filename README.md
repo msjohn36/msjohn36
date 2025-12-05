@@ -22,12 +22,12 @@ I love building web experiences that follow semantic HTML, WCAG accessibility, a
 - Variable fonts • CSS grid / flexbox
 - SEO meta tags • Open Graph • Lighthouse testing
 
-## 🐾 Contribution Paw Prints
+## 🌲 Top Languages in the Cat Forest
 
 <p align="center">
   <img 
-       src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=dark&background=1B2A23&currStreakNum=F4F4F4&sideNums=8DAA9D&currStreakLabel=C8D0C9&sideLabels=DDE3D8&dates=8DAA9D&ring=C8D0C9&fire=8DAA9D&hide_border=true&border_radius=12&stroke=C8D0C9&date_format=j%20M%5B%20Y%5D" 
-       alt="Cat paw contribution streak" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&title_color=8DAA9D&text_color=DDE3D8&bg_color=1B2A23&hide_border=true&border_radius=12" 
+       alt="Top languages cat style" />
 </p>
 
 
