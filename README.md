@@ -1,7 +1,7 @@
 # msjohn36
 # 👋 Hi, I'm Mindy Johnston
 
-## 🐾 Meet Monkey
+## 🐾 Meet Monkey the Norwegain Forest Cat
 <img src="./monkey2.jpg" alt="Monkey the cat" width="350">
 
 ### 🖥️ Graphic Information Technology • Arizona State University  
