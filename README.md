@@ -1,6 +1,9 @@
 # msjohn36
 # 👋 Hi, I'm Mindy Johnston
 
+## 🐾 Meet Monkey
+<img src="./monkey.png" alt="Monkey the cat" width="350">
+
 ### 🖥️ Graphic Information Technology • Arizona State University  
 Veterinary Technician at Banfield Pet Hospital | Front-end designer 
 
@@ -21,7 +24,7 @@ I love building web experiences that follow semantic HTML, WCAG accessibility, a
 ---
 
 ## 🐾 About Me
-By day, I'm a **veterinary technician at Banfield**, working with pets and supporting doctor workflow.  
+By day, I'm a **veterinary technician at Banfield**, working with pets and supporting the doctor's workflow.  
 By night, I’m coding sites, designing branding systems, and building accessible UI.
 
 I specialize in:
@@ -29,7 +32,10 @@ I specialize in:
 - Dark/light mode theme systems 🌗
 - Semantic HTML that *validates* ✔
 
----
+![Cat Lover](https://img.shields.io/badge/🐱-Cat%20Lover-pink)
+![Vet Tech](https://img.shields.io/badge/🐾-Veterinary%20Technician-green)
+![GIT Student](https://img.shields.io/badge/🎓-Graphic%20Information%20Tech-orange)
+
 
 ## 📊 GitHub Analytics
 
