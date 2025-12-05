@@ -31,16 +31,6 @@ I specialize in:
 
 ---
 
-## 🌐 Connect With Me
-| Platform | Link |
-|---|---|
-| LinkedIn | https://www.linkedin.com/in/YOURLINK |
-| CodePen | https://codepen.io/YOURNAME |
-| GitHub Portfolio | https://github.com/YOURUSERNAME |
-| Behance *(if you have one)* | https://behance.net/YOURNAME |
-
----
-
 ## 📊 GitHub Analytics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
